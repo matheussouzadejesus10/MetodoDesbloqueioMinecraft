@@ -1,5 +1,6 @@
 # Metodo Desbloqueio do Minecraft
 Desbloqueio do Minecraft bedrock sem pagar nada(official de matheus souza 10)
+
 [Relembrando] se nao tem certeza que e seguro? pode abrir o arquivo e ler os codigos
 
 ## TUTORIAL
