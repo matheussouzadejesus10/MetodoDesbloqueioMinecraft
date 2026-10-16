@@ -4,7 +4,7 @@ Desbloqueio do Minecraft bedrock sem pagar nada(official de matheus souza 10)
 [Relembrando] se nao tem certeza que e seguro? pode abrir o arquivo e ler os codigos
 
 ## TUTORIAL
-1: Baixe o "Metodo Minecraft Matheus souza 10.zip" em "Releases"
+1: Baixe o ["Metodo Minecraft Matheus souza 10.zip"](https://github.com/matheussouzadejesus10/MetodoDesbloqueioMinecraft/releases/tag/Releases) em "Releases"
 
 2: Extrair o zip baixado
 
